@@ -1,0 +1,9 @@
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\IslandServer.exe.config
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\IslandServer.exe
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\IslandServer.pdb
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\AsyncIO.dll
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\NetMQ.dll
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\obj\Debug\IslandServer.exe
+C:\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\obj\Debug\IslandServer.pdb

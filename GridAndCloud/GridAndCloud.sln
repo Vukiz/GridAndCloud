@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridAndCloud", "GridAndCloud.csproj", "{76918182-4496-2A95-FB04-3DBB3119399A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandServer", "..\..\..\..\Users\Евгений\Documents\Visual Studio 2015\Projects\IslandServer\IslandServer\IslandServer.csproj", "{8198F61F-92C5-4C99-B7C4-55976E12CEB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IslandGateway", "..\IslandGateway\IslandGateway.csproj", "{5F54736F-B743-4826-849D-A4B77F9D3AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76918182-4496-2A95-FB04-3DBB3119399A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76918182-4496-2A95-FB04-3DBB3119399A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76918182-4496-2A95-FB04-3DBB3119399A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76918182-4496-2A95-FB04-3DBB3119399A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8198F61F-92C5-4C99-B7C4-55976E12CEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8198F61F-92C5-4C99-B7C4-55976E12CEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8198F61F-92C5-4C99-B7C4-55976E12CEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8198F61F-92C5-4C99-B7C4-55976E12CEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F54736F-B743-4826-849D-A4B77F9D3AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F54736F-B743-4826-849D-A4B77F9D3AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F54736F-B743-4826-849D-A4B77F9D3AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F54736F-B743-4826-849D-A4B77F9D3AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

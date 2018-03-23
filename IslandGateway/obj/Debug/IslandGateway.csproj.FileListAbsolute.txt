@@ -1,0 +1,9 @@
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\IslandGateway.exe.config
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\IslandGateway.exe
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\IslandGateway.pdb
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\AsyncIO.dll
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\NetMQ.dll
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\Newtonsoft.Json.dll
+C:\Programs\Projects\GridAndCloud\IslandGateway\bin\Debug\Newtonsoft.Json.xml
+C:\Programs\Projects\GridAndCloud\IslandGateway\obj\Debug\IslandGateway.exe
+C:\Programs\Projects\GridAndCloud\IslandGateway\obj\Debug\IslandGateway.pdb
